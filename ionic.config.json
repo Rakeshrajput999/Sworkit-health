@@ -1,0 +1,7 @@
+{
+  "name": "SworkitHealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
