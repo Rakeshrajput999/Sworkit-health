@@ -1,0 +1,7 @@
+{
+  "name": "SwortHealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
